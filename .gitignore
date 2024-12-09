@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 *.csv.gz
+*.csv 
+*.dly
+*.db
+*.pdf
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
